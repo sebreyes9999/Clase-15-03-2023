@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*reacomoda el aumento de la caja manteniendo su misma proporcion y tamaño*/
+}
+
+.h1{
+    border: 1px solid brown;
+    background-color: wheat;
+
+}
+
+.sec1{
+    width: 25%;
+    height: auto;
+    padding: 2%;
+    border: 1px solid browm;
+    background-color: green;
+    color: aliceblue;
+}
